@@ -42,8 +42,6 @@ function App() {
     }
     setPassword(tempPassword);
     setCopied(false);
-
-    // console.log(tempPassword);
   };
 
   const setNewPassword = () => {
